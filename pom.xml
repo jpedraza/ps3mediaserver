@@ -89,7 +89,7 @@
 		<cuelib-version>1.2.1-2008-06-13</cuelib-version>
 		<jgoodies-forms-version>1.6.0</jgoodies-forms-version>
 		<jgoodies-looks-version>2.5.2</jgoodies-looks-version>
-		<junrar-version>0.7</junrar-version>
+		<junrar-version>1.0.1</junrar-version>
 		<mediautil-version>1.0</mediautil-version>
 		<xmlwise-version>1.2.11</xmlwise-version>
 		<slf4j-version>1.7.1</slf4j-version>
